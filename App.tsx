@@ -45,7 +45,7 @@ const App: React.FC = () => {
                     <img src="https://picsum.photos/400/500?grayscale" alt="Photographer" className="w-full md:w-1/3 rounded-2xl shadow-xl" />
                     <div className="text-lg text-gray-600 space-y-6">
                         <p>
-                            Hi, I'm Alex. I started shooting with a disposable Kodak when I was 7, and I haven't put a camera down since.
+                            Hi, I'm Zahir. I started shooting with a disposable Kodak when I was 7, and I haven't put a camera down since.
                         </p>
                         <p>
                             My philosophy is simple: <strong>Perfection is boring.</strong> 
